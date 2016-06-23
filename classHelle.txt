@@ -1,5 +1,0 @@
-function()
-{
-printf("Hellow World")
-print("Hello")
-}
