@@ -1,2 +1,2 @@
 printf("Hellow World")
-print("Hello"
+print("Hello")
