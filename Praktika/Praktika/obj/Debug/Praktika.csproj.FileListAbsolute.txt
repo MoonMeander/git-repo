@@ -1,0 +1,18 @@
+E:\my document\visual studio\Praktika\Praktika\bin\Debug\Praktika.exe.config
+E:\my document\visual studio\Praktika\Praktika\bin\Debug\Praktika.exe
+E:\my document\visual studio\Praktika\Praktika\bin\Debug\Praktika.pdb
+E:\my document\visual studio\Praktika\Praktika\obj\Debug\Praktika.csprojResolveAssemblyReference.cache
+E:\my document\visual studio\Praktika\Praktika\obj\Debug\Praktika.Form1.resources
+E:\my document\visual studio\Praktika\Praktika\obj\Debug\Praktika.Properties.Resources.resources
+E:\my document\visual studio\Praktika\Praktika\obj\Debug\Praktika.csproj.GenerateResource.Cache
+E:\my document\visual studio\Praktika\Praktika\obj\Debug\Praktika.exe
+E:\my document\visual studio\Praktika\Praktika\obj\Debug\Praktika.pdb
+C:\Users\VoltMace\Desktop\Praktika\Praktika\bin\Debug\Praktika.exe.config
+C:\Users\VoltMace\Desktop\Praktika\Praktika\obj\Debug\Praktika.exe
+C:\Users\VoltMace\Desktop\Praktika\Praktika\obj\Debug\Praktika.pdb
+C:\Users\VoltMace\Desktop\Praktika\Praktika\bin\Debug\Praktika.exe
+C:\Users\VoltMace\Desktop\Praktika\Praktika\bin\Debug\Praktika.pdb
+C:\Users\VoltMace\Desktop\Praktika\Praktika\obj\Debug\Praktika.csprojResolveAssemblyReference.cache
+C:\Users\VoltMace\Desktop\Praktika\Praktika\obj\Debug\Praktika.Form1.resources
+C:\Users\VoltMace\Desktop\Praktika\Praktika\obj\Debug\Praktika.Properties.Resources.resources
+C:\Users\VoltMace\Desktop\Praktika\Praktika\obj\Debug\Praktika.csproj.GenerateResource.Cache
