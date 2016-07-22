@@ -1,7 +1,0 @@
-влад питух()
-{
-	var vlad =  $("#putyx").val();
-	var lox = "лох";
-	vlad *= lox;
-	return vlad;
-}
